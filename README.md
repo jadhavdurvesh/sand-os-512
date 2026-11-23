@@ -33,6 +33,11 @@ Names are provisional and not claims of trademark uniqueness.
 
 All architectures in the SAND family follow the shared [SAND Universal Architecture Foundation (SUAF)](docs/00-sand-universal-architecture-foundation.md). It establishes common engineering principles and terminology while preserving independent instruction sets, register models, memory contracts, execution semantics, and ABIs.
 
+
+## Numerical Systems Research
+
+The shared [SAND Numerical Systems Research (SNSR)](docs/22-sand-numerical-systems-research.md) programme investigates alternative radices and numeric representations, including **sexagesimal (base-60)**, balanced ternary, decimal/BCD, fixed- and floating-point, and residue number systems. These are research topics, not claims that every format is implemented in the ISA.
+
 ## Documentation
 
 The [docs](docs/) directory defines scope, architecture, register and numeric model, ISA, memory, execution, protection, emulator, toolchain, ABI, kernel, memory capabilities, verification, roadmap, and decisions.
