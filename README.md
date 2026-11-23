@@ -29,6 +29,10 @@ Names are provisional and not claims of trademark uniqueness.
 
 512-bit scalar registers do not imply 512-bit pointers, virtual addresses, physical addresses, or installed RAM. These are separate design parameters.
 
+## SAND Universal Architecture Foundation
+
+All architectures in the SAND family follow the shared [SAND Universal Architecture Foundation (SUAF)](docs/00-sand-universal-architecture-foundation.md). It establishes common engineering principles and terminology while preserving independent instruction sets, register models, memory contracts, execution semantics, and ABIs.
+
 ## Documentation
 
 The [docs](docs/) directory defines scope, architecture, register and numeric model, ISA, memory, execution, protection, emulator, toolchain, ABI, kernel, memory capabilities, verification, roadmap, and decisions.
